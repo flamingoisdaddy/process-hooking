@@ -1,4 +1,4 @@
-[-] this pgoram uses ptrade syscalls to allow the user to select a random process and read data from a specific memory addr [-]
+[-] this program uses ptrade syscalls to allow the user to select a random process and read data from a specific memory addr [-]
 ----------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------
